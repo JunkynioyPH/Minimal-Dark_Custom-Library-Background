@@ -1,7 +1,9 @@
 ## Modified version to allow for Custom Backgrounds to be used in the Library Page
 # Minimal_Dark_for_steam-v3.3.1
 Because we want something simple yet a nice background.
-Just modify the JunkyModifications.css to change the background.
+Just modify the JunkyModifications.css to change the background. <br>
+
+![minimal](https://cdn.discordapp.com/attachments/894153595367329816/1287223698750832640/image.png?ex=66f0c3fd&is=66ef727d&hm=b14d3f6885616bdf31574a4308ff59301a03924dfad53d567a9e76006bf35ca9&) <br>
 
 ### ---- ORIGINAL README FROM AUTHOR ----
 [![KoFi](https://i.imgur.com/VnXqmO2.png)](https://ko-fi.com/saiyajink)
