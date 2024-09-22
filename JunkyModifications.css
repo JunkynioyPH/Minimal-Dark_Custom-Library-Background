@@ -1,0 +1,33 @@
+/* [ BG Image ] */
+._3xRRJfD2xy95i9NhJxLTp0 {
+    background-image: url('https://cdn.discordapp.com/attachments/1191333809539526728/1287195569952919704/YESz.gif?ex=66f0a9ca&is=66ef584a&hm=db627a6d14066ab9ee3bb6b1b24d5f98a385ccb8aaaf5e519e8157c580164edf&')!important;
+    background-repeat: no-repeat!important;
+    background-size: cover;
+};
+/* ## SideBar Games + Main Body ## */
+/* > remove that gradient thing */
+._3x1HklzyDs4TEjACrRO2tB {
+    background-image: unset!important;
+}
+/* > BG Dimming */
+._2Dd4T78PcCTUVgOtDGFY5j, ._3x1HklzyDs4TEjACrRO2tB, ._3BFcmjAaMyP6GTPwc0VyWi, ._27RcNu8aXKBpYkHcNNrt-X {
+    background: rgb(0 0 0 / 50%)!important;
+}
+/* > Game Page Game image banner */
+._3DeO92O5aVkcdwEBCJDjWm._3fLo166MlaNqP8r8tTyRz {
+    box-shadow: 0px -20px 20px hsl(0deg 0% 0% / 60%)!important;
+}
+/* > Game Page in Library; absoute bottom of page, add boxshadow for subtle cut off */
+/*   this only really applies when there isnt anything else in this page like the activity stuff and game updates*/
+._27RcNu8aXKBpYkHcNNrt-X {
+    box-shadow: 0px 55px 100px hsl(0deg 0% 0% / 60%)!important;
+}
+/* > SideBar Games -[ - ]- Main Body Divider (A little fucked and buggy but whatever) */
+._276E6ijBpjMA2_iTxNhhjc._2g5K_hJWc7jVo81zuejhk2 {
+    width: 2px!important;
+    min-width: 2px!important;
+}
+/* ## BG Transparent for BG Image ## */
+ ._2Dd4T78PcCTUVgOtDGFY5j, ._2gSXCB6PbOlMxslr8hm6dm, ._17uEBe5Ri8TMsnfELvs8-N, ._3Sb2o_mQ30IDRh0C72QUUu, ._2sNr7PFYcJZWNkEMCDVVPR, ._3FmxxjyWNHU1PrBGnBe6tm._2l416KfEtI4CL0mCUEmOBw {
+    background: transparent!important;
+}

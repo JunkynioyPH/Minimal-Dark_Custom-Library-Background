@@ -234,7 +234,7 @@ button.DialogButton:enabled:active, button.DialogButton:enabled:active:hover, bu
 
 ._2sNr7PFYcJZWNkEMCDVVPR {
     min-height: 100%;
-    background: var(--minimal_dark_blacker_alt);
+    /* background: var(--minimal_dark_blacker_alt); JunkyModifications.css */
 }
 
 ._2JKpGzeAiwmBdY73bfRXz- {
@@ -569,7 +569,7 @@ button.DialogButton:enabled:active, button.DialogButton:enabled:active:hover, bu
 ._1R-DVEa2yqX0no8BYLtn9N:hover {
     background: var(--minimal_dark_black) !important;
 	color: var(--minimal_dark_color) !important;
-	border-radius: 5px !important;p
+	border-radius: 5px !important;
 }
 
 ._DialogInputContainer {
@@ -707,7 +707,7 @@ button.DialogButton:enabled:active, button.DialogButton:enabled:active:hover, bu
 }
 
 ._2lrrNsbFXBpMmd7sl1W8zv {
-    background-color: background: var(--minimal_dark_blacker_alt) !important;
+    background-color: var(--minimal_dark_blacker_alt) !important;
 }
 
 .DialogBodyText {

@@ -1,3 +1,9 @@
+## Modified version to allow for Custom Backgrounds to be used in the Library Page
+# Minimal_Dark_for_steam-v3.3.1
+Because we want something simple yet a nice background.
+Just modify the JunkyModifications.css to change the background.
+
+### ---- ORIGINAL README FROM AUTHOR ----
 [![KoFi](https://i.imgur.com/VnXqmO2.png)](https://ko-fi.com/saiyajink)
 
 ## ⚡ Minimal Dark for Steam ⚡ <br> 
